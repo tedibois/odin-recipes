@@ -5,12 +5,12 @@ im doing The Odin Project
 rn sigmas
 CHAT
 # igmages cats iamges images
-![:o](https://github.com/[tedibois]/[odin-recipes]/blob/[main/images]/evil_amogus.amogus.jpg?raw=true)
+![:o](![:o](https://github.com/[tedibois]/[odin-recipes]/blob/[main/images]/.jpg?raw=true))
 
-![:o](https://github.com/[tedibois]/[odin-recipes]/blob/[main/images]/freakbook.jpg?raw=true)
+![:o](https://github.com/tedibois/odin-recipes/blob/main/images/freakbook.jpg)
 
-![:o](https://github.com/[tedibois]/[odin-recipes]/blob/[main/images]/nerdy_cat.jpg?raw=true)
+![:o](https://github.com/tedibois/odin-recipes/blob/main/images/nerdy_cat.jpg)
 
-![:o](https://github.com/[tedibois]/[odin-recipes]/blob/[main/images]/tigar.jpg?raw=true)
+![:o](https://github.com/tedibois/odin-recipes/blob/main/images/tigar.jpg)
 
-![:o](https://github.com/[tedibois]/[odin-recipes]/blob/[main/images]/walteh.jpg?raw=true)
+![:o](https://github.com/tedibois/odin-recipes/blob/main/images/walteh.jpg)
