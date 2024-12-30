@@ -5,3 +5,9 @@ div {
 .alert-text {
     color: red;
 }
+@font-face {
+    font-family: 'font1';
+    margin: 20px; 
+    font-weight: 700;
+    src: url('fonts');
+    }
