@@ -21,6 +21,12 @@ h3 {
     font-weight: 700;
     src: url(fonts/Poppins-Medium.ttf);
     }
+@font-face {
+      font-family: font3;
+      margin: 20px; 
+      font-weight: 700;
+      src: url(fonts/Poppins-Black.ttf);
+      }
 * {
     font-family: font1;
 }
@@ -69,4 +75,42 @@ body {
 h3 {
     text-align: center;
     margin-top: 300px;
+}
+.parent{
+  text-align:center;
+}
+.box {
+ text-align: center;
+ color:black;
+ font-size: 150px;
+ background-color: blue;
+ background-image: url('images/nerdy_cat.jpg');
+ background-clip:text;
+ color:transparent;
+ background-size:contain;
+ font-family: font3;
+ display: inline-block;
+ padding: 1rem 1rem;
+ vertical-align: middle;
+
+}
+.button {
+  color: lightgray;
+  text-align: center;
+  font-size: 150px;
+  display: block;
+  margin-left: auto;
+  font-family: font3;
+  margin-right: auto;
+background-image: url('images/tigar.jpg');
+background-size: cover;
+display: inline-block;
+padding: rem 1rem;
+vertical-align: middle;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width:100%;
 }
