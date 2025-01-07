@@ -29,6 +29,7 @@ h3 {
       }
 * {
     font-family: font1;
+    text-align: center;
 }
 body {
     margin: 0;
@@ -42,13 +43,12 @@ body {
     width: calc(100% - 4rem);
     margin: 0 auto;
   }
-  
   main {
     margin-bottom: 4rem;
   }
   
   header {
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
     padding: 2rem 0;
     background-color: hsl(280, 50%, 40%);
     border-bottom: 4px solid hsl(300, 50%, 50%);
@@ -62,8 +62,14 @@ body {
   h1, h2, h3 {
     margin: 0;
     line-height: 1.25;
+    text-align: center;
   }
-  
+  .home{
+    color: rgb(0, 0, 0);
+    margin-bottom: 60px;
+    padding-top: -20px;
+    font-family: font3;
+  }
   h2, h3 {
     color: hsl(280, 50%, 40%)
   }
@@ -74,7 +80,8 @@ body {
   }
 h3 {
     text-align: center;
-    margin-top: 300px;
+    margin-top: 250px;
+
 }
 .parent{
   text-align:center;
@@ -109,8 +116,15 @@ padding: rem 1rem;
 vertical-align: middle;
 }
 .footer {
-  position: fixed;
+  position: static;
+  padding: 2rem 0;
   left: 0;
+  margin-top: 4rem;
+  border-top: 4px solid hsl(300, 50%, 50%);
   bottom: 0;
-  width:100%;
+  width: 100%;
+  background-color: hsl(280, 50%, 40%);
+  color: hsl(300, 50%, 85%);;
+  font-size: 10px;
+  text-align: center;
 }
