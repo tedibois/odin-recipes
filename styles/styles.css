@@ -9,7 +9,7 @@ div {
     font-family: font2;
     margin: 20px; 
     font-weight: 700;
-    src: url(fonts/papyrus.ttf);
+    src: url(../recipes/fonts/papyrus.ttf);
     }
 h3 {
     font-family: font2;
@@ -19,13 +19,13 @@ h3 {
     font-family: font1;
     margin: 20px; 
     font-weight: 700;
-    src: url(fonts/Poppins-Medium.ttf);
+    src: url(../recipes/fonts/Poppins-Medium.ttf);
     }
 @font-face {
       font-family: font3;
       margin: 20px; 
       font-weight: 700;
-      src: url(fonts/Poppins-Black.ttf);
+      src: url(../recipes/fonts/Poppins-Black.ttf);
       }
 * {
     font-family: font1;
@@ -91,7 +91,7 @@ h3 {
  color:black;
  font-size: 150px;
  background-color: blue;
- background-image: url('images/nerdy_cat.jpg');
+ background-image: url('../recipes/images/nerdy_cat.jpg');
  background-clip:text;
  color:transparent;
  background-size:contain;
@@ -109,7 +109,7 @@ h3 {
   margin-left: auto;
   font-family: font3;
   margin-right: auto;
-background-image: url('images/tigar.jpg');
+background-image: url('../recipes/images/tigar.jpg');
 background-size: cover;
 display: inline-block;
 padding: rem 1rem;
@@ -127,4 +127,12 @@ vertical-align: middle;
   color: hsl(300, 50%, 85%);;
   font-size: 10px;
   text-align: center;
+}
+.flex-container {
+display: flex;
+}
+.flex-container div {
+background: peachpuff;
+border: 4px solid brown;
+height: 100px;
 }
